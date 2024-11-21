@@ -47,3 +47,60 @@ Les données analysées proviennent de la FAO et couvrent plusieurs aspects de l
 ---
 
 Ce projet m’a permis d’approfondir mes compétences en analyse de données dans un contexte réel et impactant, tout en produisant des insights clairs pour aider à la prise de décisions stratégiques dans le domaine de la santé publique.
+
+
+---
+
+---
+
+
+# 🩺 Public Health Study with Python
+
+This project, completed as part of my OpenClassrooms Data Analyst training, aimed to provide an overview of the state of undernutrition worldwide for the **Food and Agriculture Organization of the United Nations (FAO)**, a United Nations agency working to eradicate hunger globally.
+
+---
+
+## 📚 Project Context
+The FAO undertakes initiatives to monitor and reduce food insecurity worldwide. This project involved analyzing and synthesizing data on food availability and undernutrition to identify critical areas and propose actionable improvements.
+
+---
+
+## 🎯 Project Objectives
+### Undernutrition Data Analysis:
+- Calculate the proportion of undernourished people for the year 2017.  
+- Estimate the theoretical number of people who could be fed with the global food supply.  
+- Study the food availability of plant-based products.  
+- Analyze the use of domestic food supply (animal feed, losses, human consumption).  
+
+### Country Analysis:
+- Identify countries with the highest proportions of undernutrition in 2017.  
+- Study countries that benefited the most from food aid since 2013.  
+- Compare food availability per capita.  
+- Highlight countries facing the greatest food challenges.
+
+---
+
+## 📦 Deliverables
+1. **Python Notebook**: Includes all analyses, from data processing to visualizing the results.  
+2. **PDF Presentation**: Summary of key results, graphs, and strategic recommendations.
+
+---
+
+## ✨ Skills Developed
+- Advanced manipulation of **DataFrames** using Python (Pandas, NumPy).  
+- Exploratory data analysis on public health issues.  
+- Leveraging a Python development environment to process and visualize data.  
+- Synthesizing complex analyses into clear, impactful visuals for stakeholders.
+
+---
+
+## 📊 Data Used
+The analyses were conducted using data from the FAO, covering various aspects of food security:  
+- **dispo_alimentaire.csv**: Global food balance sheets (2013).  
+- **sous_nutrition.csv**: Undernutrition data (2013–2017).  
+- **population.csv**: Global population data (2013–2018).  
+- **aide_alimentaire.csv**: Global food aid data (2013–2016).  
+
+---
+
+This project allowed me to deepen my data analysis skills in a real-world and impactful context, while producing clear insights to support strategic decision-making in public health.
